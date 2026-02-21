@@ -4,7 +4,8 @@
 
 # Exposed - Kaudy (Resumo)
 
-> **Aviso:** Este README contem  **alegacoes, prints e depoimentos** reunidos pela equipe/comunidade.  
+> **Aviso:** Este repositório contem  **alegacoes, prints e depoimentos** organizados e analisadospela 
+> equipe/comunidade. Todos foram organizados com total calma. Não um vídeo de 10 minutos feito em 30 minutos.  
 > O objetivo e documentar os fatos apresentados e encerrar o assunto de forma organizada.
 >Arrogancia e narcisismo puro, o mesmo precisa de tratamentos psicologicos.
 
