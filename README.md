@@ -42,7 +42,8 @@ Esse exposed vai ser a **ultima vez** que tocamos no nome desse mlk, entao nao e
 - Comparacoes de codigo
 - Evidencias de copia
 - Historico de casos
-- Links para projetos do mesmo que sao puro SKid
+- Links para projetos do mesmo que sao puro skid
+- Prints de sources públicas no github, a "Chaos backend", é literalmente a reload backend
 
 ### 4. Prints forjadas contra o Nebula
 - Prints apresentadas
