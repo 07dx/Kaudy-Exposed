@@ -1,4 +1,68 @@
-# Resumindo esse mano e racista, skidder e forja provas pra se sentir alguem, sem contar que ele rebaixa os outros pra ser algo.
-# Esse exposed vai ser a ultima vez que tocamos no nome desse mlk, entao nao esperem muitos updates aqui, ate pq temos coisas pra fazer diferente dele xD.
-# Vortyx nao e projeto, e sim uma panela.
-# FUCK KAUDY!
+**FUCK KAUDY!**
+
+# Exposed - Kaudy (Resumo)
+
+> **Aviso:** Este README contem  **alegacoes, prints e depoimentos** reunidos pela equipe/comunidade.  
+> O objetivo e documentar os fatos apresentados e encerrar o assunto de forma organizada.
+
+## Resumo
+
+Resumindo: esse mano e racista, skidder e forja provas pra se sentir alguem, sem contar que rebaixa os outros pra parecer algo.
+
+Esse exposed vai ser a **ultima vez** que tocamos no nome desse mlk, entao nao esperem muitos updates aqui, ate porque temos coisas mais importantes pra fazer (diferente dele xD).
+
+**Vortyx nao e projeto, e sim uma panela.**
+
+---
+
+## Topicos abordados
+
+- Kaudy sendo racista
+- "Pedofilo" (entre aspas)
+- Skidder (o que voce vai ver de monte)
+- Forjando prints para desfavorecer o Nebula
+- Depoimentos de antigos devs/cargos importantes dentro dos servers dele
+
+---
+
+## Estrutura do exposed
+
+### 1. Racismo
+- Prints
+- Contexto
+- Resumo do ocorrido
+
+### 2. "Pedofilo" (entre aspas)
+- Prints / Conversas
+- Contexto
+- Observacoes importantes
+
+### 3. Skidder
+- Comparacoes de codigo
+- Evidencias de copia
+- Historico de casos
+- Links para projetos do mesmo que sao puro SKid
+
+### 4. Prints forjadas contra o Nebula
+- Prints apresentadas
+- Inconsistencias
+- Contraprovas
+- Conclusao
+
+### 5. Depoimentos de ex-devs / ex-cargos
+- Relatos
+- Cargos/funcoes (sem expor dados sensiveis)
+
+---
+
+## Conclusao
+
+Esse post existe para deixar tudo documentado em um lugar so, com organizacao e clareza.
+
+---
+
+## Observacao final
+
+Se voce for ler tudo, leia com calma e veja as evidencias antes de tirar conclusao.
+
+**FUCK KAUDY!**
