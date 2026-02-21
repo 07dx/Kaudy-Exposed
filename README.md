@@ -4,6 +4,7 @@
 
 > **Aviso:** Este README contem  **alegacoes, prints e depoimentos** reunidos pela equipe/comunidade.  
 > O objetivo e documentar os fatos apresentados e encerrar o assunto de forma organizada.
+>Arrogancia e narcisismo puro, o mesmo precisa de tratamentos psicologicos.
 
 ## Resumo
 
