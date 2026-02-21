@@ -1,5 +1,7 @@
 **FUCK KAUDY!**
 
+# SERÁ QUE AGORA ELE GANHA A FAMA QUE SEMPRE QUIS?
+
 # Exposed - Kaudy (Resumo)
 
 > **Aviso:** Este README contem  **alegacoes, prints e depoimentos** reunidos pela equipe/comunidade.  
