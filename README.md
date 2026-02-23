@@ -1,5 +1,7 @@
 **FUCK KAUDY!**
 
+> Feito por pisk4s, 24kmurilo, 1simpledx, legendsreborn., idkravi, HeroxTweaks, Dogkkkj, reignderick, whandrx.skidder (andrade) e outros que nao quiseram se identificar.
+
 # SERÁ QUE AGORA ELE GANHA A FAMA QUE SEMPRE QUIS?
 
 # Exposed - Kaudy (Resumo)
@@ -71,3 +73,4 @@ Esse post existe para deixar tudo documentado em um lugar so, com organizacao e 
 Se voce for ler tudo, leia com calma e veja as evidencias antes de tirar conclusao.
 
 **FUCK KAUDY!**
+
